@@ -1,4 +1,6 @@
-			![screencshot](https://i.ibb.co/Ph2cvGw/logo.png)
+<div align="center">
+<img src=https://i.ibb.co/Ph2cvGw/logo.png" >
+</div>
 
 Este aplicativo irá fornecer a usuários a opção de agendar horários em um determinado salão de beleza, para realizar seus afazeres!
 

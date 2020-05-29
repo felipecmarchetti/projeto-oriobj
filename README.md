@@ -20,4 +20,4 @@ Este aplicativo irá fornecer a usuários a opção de agendar horários em um d
 • FireBase Realtime Database: O Firebase Realtime Database é um banco de dados hospedado na nuvem. Os dados são armazenados como JSON e sincronizados em tempo real com todos os clientes conectados. Com isso, todos os clientes compartilham uma instância do Realtime Database e recebem automaticamente atualizações com os dados mais recentes.
 
 
-Para mais, acesse o link: <unavailable>
+Para mais, acesse o link: https://youtu.be/QZ2kDmxJNJM
